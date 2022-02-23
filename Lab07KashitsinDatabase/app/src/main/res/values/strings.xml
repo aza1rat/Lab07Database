@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab07-Kashitsin Database</string>
+    <string name="author">Кашицын,393</string>
+    <string name="key">Ключ</string>
+    <string name="value">Значение</string>
+    <string name="insert">Ввести</string>
+    <string name="replace">Замена</string>
+    <string name="select">Выбрать</string>
+    <string name="delete">Удалить</string>
+</resources>
